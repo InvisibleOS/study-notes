@@ -1,3 +1,3 @@
 # Notes
 
-## This website has all the important points for Cambridge IGCSE.
+Important notes and points to remember are listed on this website.
