@@ -4,4 +4,7 @@
 * [Chemistry](chemistry/README.md)
   * [Extraction of Metals](chemistry/extraction-of-metals/README.md)
     * [Zinc](chemistry/extraction-of-metals/zinc.md)
-  * [Sulfuric Acid](chemistry/sulfuric-acid.md)
+  * [Manufacturing Sulfuric Acid](chemistry/manufacturing-sulfuric-acid.md)
+  * [Preparation of Salts](chemistry/preparation-of-salts.md)
+  * [pH Indicators](chemistry/ph-indicators.md)
+  * [Separation Methods](chemistry/separation-methods.md)
