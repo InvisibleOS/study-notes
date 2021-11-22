@@ -1,7 +1,5 @@
 # Variation and selection
 
-
-
 ## Variation
 
 #### Variation: difference between individuals of the same species
@@ -41,18 +39,19 @@
 * Faulty replication at meiosis
 * Valine replaces glutamic acid
 
-| Hb^A^Hb^S^ & Hb^A^Hb^S^ | Note                                          |
-| ----------------------- | --------------------------------------------- |
-| Hb^A^Hb^A^              | reduced survival; selected against by malaria |
-| Hb^A^Hb^S^              | positive selection due to malaria resistance  |
-| Hb^A^Hb^S^              | positive selection due to malaria resistance  |
-| Hb^S^Hb^S^              | reduced survival; selected against by illness |
-
-**Heterozygotes have no symptoms of anemia and are resistant to malaria as malaria parasite is unable to reproduce in the sickle cells**
+| Hb^A^Hb^S^ & Hb^A^Hb^S^                                                                                                                   | -                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| Hb^A^Hb^A^                                                                                                                                | reduced survival; selected against by malaria |
+| Hb^A^Hb^S^                                                                                                                                | positive selection due to malaria resistance  |
+| Hb^A^Hb^S^                                                                                                                                | positive selection due to malaria resistance  |
+| Hb^S^Hb^S^                                                                                                                                | reduced survival; selected against by illness |
+| #### Heterozygotes have no symptoms of anemia and are resistant to malaria as malaria parasite is unable to reproduce in the sickle cells |                                               |
 
 ## Adaptive features
 
 #### Adaptive feature: inherited functional feature that help an organism to survive and reproduce in its environment and increase its fitness
+
+#### Adaptations: the process, resulting from natural selection, by which populations become more suited to their environment over many generations
 
 1. ### Pine tree (xerophyte)
 
@@ -95,3 +94,32 @@
   * Prevents water entering the air spaces
 * Roots contain air spaces
   * Root cells need oxygen for respiration
+
+## Selection
+
+### Natural selection
+
+1. Variation within populations
+2. Production of many offsprings
+3. Competition for resources
+4. Struggle for survival
+5. Reproduction by individuals that are better adapter to the environment than others
+6. Passing on of their alleles to the next generation
+
+#### Evolution: change in adaptive features of a population over time as a result of natural selection
+
+Example: Development of strains of antibiotic resistant bacteria is an example of evolution by natural selection
+
+### Selective breeding
+
+* Selection by humans of individuals with desirable features
+* Crossing these individuals to produce the next generation
+* Selection of offspring showing the desirable features
+
+### Difference between natural and artificial selection
+
+| Natural selection                                                                                                                                | Artificial selection                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
+| Occurs over many generations                                                                                                                     | Can be done quickly                                            |
+| Individuals that are more adapted to the environment are likely to survive and pass the useful adaptive features and alleles to their offsprings | Offers no advantage to the organism in its natural environment |
+| Useful characteristics are shown in the offspring                                                                                                | Desirable characteristics are shown in the organisms           |
