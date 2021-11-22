@@ -13,3 +13,5 @@
 * [Economics](economics/README.md)
   * [Section 6](economics/section-6/README.md)
     * [International specialization](economics/section-6/international-specialization.md)
+* [Physics](physics/README.md)
+  * [General physics](physics/general-physics.md)
