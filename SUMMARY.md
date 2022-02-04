@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Notes](README.md)
-* [Preparation of Salts](preparation-of-salts.md)
 * [Chemistry](chemistry/README.md)
   * [Identification of ions](chemistry/identification-of-ions.md)
   * [Titration](chemistry/titration.md)
@@ -10,6 +9,7 @@
   * [Manufacturing Sulfuric Acid](chemistry/manufacturing-sulfuric-acid.md)
   * [pH Indicators](chemistry/ph-indicators.md)
   * [Separation Methods](chemistry/separation-methods.md)
+  * [Preparation of Salts](chemistry/preparation-of-salts.md)
 * [Biology](biology/README.md)
   * [Variation and selection](biology/variation-and-selection.md)
   * [Reproduction](biology/reproduction.md)
